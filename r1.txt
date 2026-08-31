@@ -9,6 +9,7 @@
 <h1>reddybasha</h1>
 <h2> my first job </h2>
     <h1>Welcome to HTML</h1>
+<h1>Welcome to HTML</h1>
     <p>This is my first HTML page.</p>
 
     <a href="https://www.google.com">Visit Google</a>
