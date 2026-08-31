@@ -6,6 +6,8 @@
     <title>My First Web Page</title>
 </head>
 <body>
+<h2> my first job </h2>
+<h2> my first job </h2>
 
 <h2> my first job </h2>
     <h1>Welcome to HTML</h1>
