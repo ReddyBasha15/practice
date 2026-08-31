@@ -14,6 +14,7 @@
 <h1>Welcome to HTML</h1>
     <p>This is my first HTML page.</p>
 <p1>This is my first HTML page.</p1>
+<p2>This is my first HTML page.</p2>
 
     <a href="https://www.google.com">Visit Google</a>
 </body>
